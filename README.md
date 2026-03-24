@@ -36,7 +36,7 @@ npm (comes with Node.js)
 Installation
 
 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/doc-chat-rag.git
+git clone https://github.com/bhagya20git/DocChat-RAG.git
 cd doc-chat-rag
 
 # 2. Create a new Vite + React project
